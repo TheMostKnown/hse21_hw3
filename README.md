@@ -64,6 +64,7 @@
 ![изображение](https://user-images.githubusercontent.com/65551462/144659082-382a113f-3211-42d9-b94e-a22fe4c14508.png)
 
 **Графики из 2 части задания**:  
+
 ![изображение](https://user-images.githubusercontent.com/65551462/144659336-407df616-fde0-48d1-a74e-8528be550785.png)
 ![изображение](https://user-images.githubusercontent.com/65551462/144659355-c15aa0ad-3dc3-4f0e-a73b-9c69dbab8304.png)
 ![изображение](https://user-images.githubusercontent.com/65551462/144659366-f0d9ac60-94ca-4415-a440-848ff4a3655b.png)
